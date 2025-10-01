@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local SQLite databases
+expenses.db
+*.db
+
