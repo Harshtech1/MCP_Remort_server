@@ -1,0 +1,55 @@
+{
+  "food": [
+    "groceries",
+    "dining_out",
+    "coffee_tea",
+    "snacks"
+  ],
+  "transport": [
+    "fuel",
+    "public_transport",
+    "cab_ride_hailing",
+    "parking"
+  ],
+  "housing": [
+    "rent",
+    "utilities",
+    "maintenance",
+    "furnishing"
+  ],
+  "shopping": [
+    "clothing",
+    "electronics",
+    "home_goods",
+    "other"
+  ],
+  "entertainment": [
+    "movies",
+    "games",
+    "hobbies",
+    "events"
+  ],
+  "health": [
+    "medicines",
+    "doctor",
+    "gym",
+    "insurance"
+  ],
+  "education": [
+    "books",
+    "courses",
+    "software",
+    "materials"
+  ],
+  "travel": [
+    "flights",
+    "accommodation",
+    "activities",
+    "souvenirs"
+  ],
+  "other": [
+    "gifts",
+    "donations",
+    "miscellaneous"
+  ]
+}

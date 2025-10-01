@@ -86,5 +86,6 @@ if __name__ == "__main__":
     mcp.run(
         transport="http",
         host=args.host,
-        port=args.port
+        port=args.port,
+        reload=args.reload
     )

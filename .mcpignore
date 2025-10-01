@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.db
+*.sqlite3
+.DS_Store
+*.log
+
+# Project specific
+main2.py  # We're using main.py as the entry point
